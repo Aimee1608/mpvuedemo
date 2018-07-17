@@ -26,12 +26,12 @@ npm run buildH5
 博客详细说明 https://blog.csdn.net/Aimee1608/article/details/81084553
 
 
-##开始
+## 开始
 这个项目是一个mpvue 的demo, 没有具体的业务实现方法，只有简单的页面切换，还有常用的一些方法封装，总体提供分开打包开发的思路
 >github源码 => https://github.com/Aimee1608/mpvuedemo
 
 需要看详细版有项目内容的，可以看这篇文章，有详细说明 https://blog.csdn.net/aimee1608/article/details/80757077
-##目录结构
+## 目录结构
 
 ```bash
 .
@@ -163,8 +163,8 @@ npm run buildH5
         └── girl.png
 ```
 
-##简易说明
-###路由跳转
+## 简易说明
+### 路由跳转
 
 ```bash
 <template>
@@ -205,7 +205,7 @@ export default {
 </script>
 ```
 
-###分别封装方法
+### 分别封装方法
 
 > H5 mainH5.js方法
 ```bash
@@ -275,7 +275,7 @@ Vue.mixin({
 })
 ```
 
-###vuex 数据存储
+### vuex 数据存储
 >小程序store 直接挂在 Vue原型上
 
 ```bash
