@@ -1,0 +1,2 @@
+@import "/static/css/vendor.wxss";
+.counter-warp.data-v-12d7d1ff{text-align:center;padding-top:0}.log-list.data-v-12d7d1ff{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;padding:5.33333333vw}.log-item.data-v-12d7d1ff{margin:1.33333333vw}.home.data-v-12d7d1ff{display:inline-block;margin:20rpx auto;padding:10rpx 20rpx;color:blue;border:2rpx solid blue}
